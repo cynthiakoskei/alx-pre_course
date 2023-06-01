@@ -1,3 +1,4 @@
+["~"]
 Debugger entered--Lisp error: (void-variable w)
   eval(w nil)
   eval-expression(w nil nil 127)
